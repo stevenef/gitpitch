@@ -16,4 +16,7 @@ Adiós!
 
 Bild
 
-![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
+![Logo](http://scitotec.com/wp-content/uploads/2014/03/logo_dunkel.png
+### Scitotec GmbH
+Otto-Schwade-Straße 8
+99085 Erfurt
